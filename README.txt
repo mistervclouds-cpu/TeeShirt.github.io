@@ -11,6 +11,3 @@ Included:
 
 Important:
 Firestore rules for messages are now more open so customer can read/update chat conversations without login.
-
-
-V5 upgrades: full-screen chat image preview and send product details into chat.
